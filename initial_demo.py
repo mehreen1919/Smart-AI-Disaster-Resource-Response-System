@@ -267,3 +267,5 @@ st.caption(
     "This prototype uses synthetic training data. "
     "Predictions are for demonstration purposes only."
 )
+
+# Select District → Enter Conditions → AI Model → Flood Probability → Risk Level → Recommended Response
