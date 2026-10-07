@@ -1,0 +1,501 @@
+asset_id,year,province,area_name,asset_type,damage_severity_1_5,criticality_1_5,accessibility_1_5,population_served_or_affected_est,flood_impact_pct_est,estimated_repair_cost_pkr,workers_required_est,equipment_units_est,repair_days_est,recovery_priority_score_derived,recovery_priority_label_derived,record_type,source_basis
+PK25-0001,2025,Sindh,Badin,Water Supply,5,5,5,26422,54.2,24100000,29,6,28,77.9,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0002,2025,Punjab,Multan,Bridge,5,4,5,5333,33.9,56700000,61,4,75,62.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0003,2025,Gilgit-Baltistan,Ghanche,School,5,3,3,2421,23.1,14600000,24,4,21,57.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0004,2025,Khyber Pakhtunkhwa,Swat,School,3,5,4,4219,70.0,8800000,21,3,8,59.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0005,2025,Punjab,Kasur,Road,2,4,3,29598,94.1,5800000,25,4,5,61.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0006,2025,Azad Jammu & Kashmir,Bagh,Road,2,4,5,26925,46.9,5600000,19,2,8,51.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0007,2025,Sindh,Khairpur,Road,3,3,1,18176,59.8,7400000,23,3,10,56.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0008,2025,Sindh,Khairpur,Health Facility,4,5,4,46722,14.9,21500000,34,4,30,72.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0009,2025,Punjab,Jhang,School,5,4,2,3177,87.3,14500000,32,4,17,73.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0010,2025,Punjab,Kasur,Bridge,3,5,5,41528,63.6,34700000,47,3,28,70.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0011,2025,Punjab,Bahawalpur,House Cluster,3,4,1,3671,10.6,9900000,24,4,15,48.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0012,2025,Gilgit-Baltistan,Ghanche,House Cluster,4,3,4,5439,71.3,17400000,30,4,15,57.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0013,2025,Punjab,Bahawalpur,House Cluster,3,4,5,3993,92.4,14100000,20,4,19,57.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0014,2025,Sindh,Jamshoro,Bridge,1,5,3,35648,51.6,27300000,30,4,30,54.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0015,2025,Punjab,Multan,Bridge,3,5,3,36686,88.6,49200000,41,4,41,74.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0016,2025,Punjab,Jhang,Health Facility,4,4,4,47328,83.6,26100000,37,3,25,78.3,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0017,2025,Punjab,Multan,Water Supply,1,5,5,26944,67.6,5400000,13,4,7,52.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0018,2025,Punjab,Jhang,Water Supply,3,4,4,43033,35.4,14700000,21,3,21,62.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0019,2025,Sindh,Khairpur,Bridge,3,4,3,33140,78.6,53200000,46,3,48,66.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0020,2025,Punjab,Multan,Water Supply,4,5,4,30772,43.4,21200000,27,4,22,71.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0021,2025,Sindh,Dadu,Road,1,3,2,16958,63.9,3500000,16,3,5,41.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0022,2025,Punjab,Bahawalpur,Road,5,4,2,9758,37.7,13500000,39,5,16,67.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0023,2025,Azad Jammu & Kashmir,Poonch,Road,2,4,2,12642,23.2,6800000,20,3,9,45.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0024,2025,Gilgit-Baltistan,Ghizer,House Cluster,3,4,5,5969,67.3,13100000,26,4,12,54.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0025,2025,Sindh,Sujawal,Bridge,4,5,2,43124,53.6,50200000,49,6,44,79.4,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0026,2025,Punjab,Jhang,Road,1,3,5,17018,53.9,3500000,14,2,4,36.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0027,2025,Punjab,Kasur,Health Facility,2,4,5,20916,43.5,13500000,18,2,19,48.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0028,2025,Punjab,Muzaffargarh,House Cluster,3,2,1,2131,46.7,12900000,25,2,13,43.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0029,2025,Punjab,Bahawalpur,House Cluster,4,2,2,1523,38.1,17100000,22,3,22,48.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0030,2025,Khyber Pakhtunkhwa,Nowshera,Bridge,2,4,1,41590,10.8,26500000,33,2,33,54.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0031,2025,Sindh,Hyderabad,House Cluster,4,2,4,5126,10.4,16500000,28,2,22,43.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0032,2025,Azad Jammu & Kashmir,Jhelum Valley,Road,5,5,3,16997,61.3,13900000,37,6,14,77.9,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0033,2025,Punjab,Bahawalpur,House Cluster,2,4,3,2601,37.0,6600000,14,3,5,43.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0034,2025,Punjab,Rajanpur,Health Facility,4,4,2,45360,37.0,28000000,34,3,25,72.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0035,2025,Punjab,Rajanpur,Road,3,5,1,34728,10.3,5500000,33,4,5,64.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0036,2025,Punjab,Bahawalpur,Water Supply,3,5,1,32035,33.2,10600000,23,4,13,66.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0037,2025,Punjab,Narowal,Bridge,4,5,1,12713,84.3,45200000,63,5,49,74.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0038,2025,Punjab,Kasur,Health Facility,4,5,2,46471,93.6,22200000,33,3,30,86.5,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0039,2025,Punjab,Jhang,Road,2,4,4,31358,43.6,6200000,19,4,6,53.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0040,2025,Khyber Pakhtunkhwa,Buner,Water Supply,5,4,2,12577,49.9,23400000,36,4,27,70.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0041,2025,Punjab,Multan,School,4,5,5,3548,18.9,14100000,27,5,12,58.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0042,2025,Balochistan,Jaffarabad,School,1,3,2,5881,42.1,5400000,14,2,6,34.3,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0043,2025,Khyber Pakhtunkhwa,Charsadda,House Cluster,3,3,1,3690,89.5,11000000,20,3,12,55.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0044,2025,Punjab,Kasur,Road,4,3,1,13202,91.2,8000000,28,4,11,66.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0045,2025,Balochistan,Nasirabad,Road,2,3,3,19226,49.8,4900000,18,2,7,45.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0046,2025,Sindh,Sujawal,House Cluster,2,3,2,1664,35.1,9700000,20,3,14,38.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0047,2025,Punjab,Bahawalpur,Water Supply,1,5,3,9045,35.9,7400000,11,4,9,43.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0048,2025,Punjab,Vehari,Road,2,4,3,7290,82.4,5900000,24,3,6,51.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0049,2025,Khyber Pakhtunkhwa,Mansehra,School,4,4,1,1478,90.0,9200000,28,3,9,67.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0050,2025,Punjab,Muzaffargarh,Road,3,5,1,16845,30.8,8300000,32,5,9,61.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0051,2025,Punjab,Bahawalpur,Road,2,4,2,7321,89.9,6800000,25,3,8,53.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0052,2025,Punjab,Vehari,House Cluster,3,3,2,964,20.7,13900000,22,4,13,43.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0053,2025,Sindh,Hyderabad,Road,2,4,5,2991,20.1,6900000,21,3,8,39.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0054,2025,Khyber Pakhtunkhwa,Mansehra,House Cluster,2,3,5,5933,79.6,9600000,18,2,14,43.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0055,2025,Khyber Pakhtunkhwa,Buner,Bridge,3,5,1,36367,62.9,47600000,56,3,69,72.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0056,2025,Sindh,Jamshoro,Health Facility,1,5,3,59628,33.9,7400000,16,2,7,60.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0057,2025,Punjab,Kasur,Road,5,4,4,12532,71.7,10800000,41,5,12,71.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0058,2025,Punjab,Bahawalpur,Road,2,5,1,24377,81.9,4300000,22,4,6,64.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0059,2025,Punjab,Jhang,House Cluster,4,4,1,1954,90.5,12900000,29,4,15,67.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0060,2025,Punjab,Muzaffargarh,House Cluster,5,4,2,2631,65.0,15200000,30,4,13,69.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0061,2025,Khyber Pakhtunkhwa,Buner,Health Facility,4,4,4,41122,11.7,21000000,29,5,29,65.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0062,2025,Punjab,Kasur,Health Facility,2,4,5,19408,21.8,12500000,24,4,12,44.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0063,2025,Punjab,Narowal,Health Facility,5,5,3,38163,31.7,29500000,36,6,32,80.5,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0064,2025,Sindh,Hyderabad,Bridge,3,5,4,39754,61.9,40700000,59,5,42,70.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0065,2025,Punjab,Kasur,House Cluster,4,3,5,2137,30.8,17000000,31,4,25,49.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0066,2025,Punjab,Multan,School,4,5,1,3039,48.8,10000000,25,4,10,66.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0067,2025,Punjab,Vehari,Road,2,4,4,28929,83.1,4600000,18,3,6,58.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0068,2025,Punjab,Muzaffargarh,Bridge,4,5,4,7859,43.2,66100000,52,4,72,64.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0069,2025,Punjab,Vehari,Water Supply,5,5,4,5807,21.7,24000000,28,6,30,67.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0070,2025,Punjab,Vehari,School,2,3,1,2713,56.9,7100000,17,3,11,43.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0071,2025,Punjab,Multan,House Cluster,2,4,4,4421,93.0,7700000,18,3,6,51.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0072,2025,Punjab,Jhang,Road,4,5,4,29459,79.8,8900000,31,5,12,76.8,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0073,2025,Balochistan,Jaffarabad,Water Supply,2,5,3,44255,18.2,8600000,18,3,7,59.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0074,2025,Punjab,Muzaffargarh,House Cluster,4,2,1,402,65.4,16300000,23,2,23,52.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0075,2025,Punjab,Jhang,House Cluster,4,4,1,737,43.5,15700000,24,5,18,59.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0076,2025,Punjab,Bahawalpur,House Cluster,3,4,3,1471,27.7,12700000,19,3,12,48.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0077,2025,Punjab,Muzaffargarh,School,3,3,4,5945,21.7,10100000,20,3,14,43.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0078,2025,Khyber Pakhtunkhwa,Mansehra,Water Supply,2,5,4,12987,65.8,9400000,19,4,11,55.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0079,2025,Punjab,Vehari,Health Facility,1,5,3,6769,61.1,9600000,15,3,13,46.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0080,2025,Sindh,Dadu,House Cluster,3,4,4,1770,54.4,10100000,23,4,9,51.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0081,2025,Khyber Pakhtunkhwa,Charsadda,Road,5,3,4,23327,24.6,13400000,38,4,19,63.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0082,2025,Punjab,Vehari,Road,4,3,3,8451,67.8,7800000,28,3,9,59.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0083,2025,Sindh,Jamshoro,Bridge,5,4,1,16456,40.7,47400000,66,4,58,71.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0084,2025,Punjab,Vehari,Water Supply,5,4,4,7241,19.1,16500000,32,3,23,62.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0085,2025,Punjab,Narowal,School,3,5,1,5981,13.8,8800000,19,5,11,55.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0086,2025,Punjab,Narowal,Road,5,5,2,18455,52.0,13900000,37,5,17,78.0,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0087,2025,Khyber Pakhtunkhwa,Charsadda,Road,2,3,5,5408,83.6,5900000,21,2,7,44.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0088,2025,Punjab,Kasur,Water Supply,5,5,4,21095,38.0,20200000,32,5,25,74.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0089,2025,Punjab,Jhang,Road,3,4,1,14493,18.0,6100000,30,3,6,53.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0090,2025,Punjab,Kasur,School,2,4,3,5012,88.8,7400000,17,2,11,52.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0091,2025,Punjab,Kasur,Water Supply,4,5,5,2719,13.3,19100000,27,3,25,56.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0092,2025,Khyber Pakhtunkhwa,Swat,House Cluster,3,4,3,231,76.9,10200000,26,3,12,55.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0093,2025,Punjab,Multan,Road,4,3,1,18387,55.6,11600000,39,4,11,62.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0094,2025,Punjab,Narowal,Water Supply,3,5,1,7302,78.9,13900000,23,5,17,65.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0095,2025,Punjab,Narowal,Road,3,4,1,5907,77.6,8800000,25,3,12,59.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0096,2025,Punjab,Multan,House Cluster,3,2,3,4202,23.9,12200000,21,3,10,39.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0097,2025,Punjab,Bahawalpur,House Cluster,2,3,3,1009,26.0,7800000,15,3,8,36.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0098,2025,Punjab,Muzaffargarh,Water Supply,2,5,3,33454,84.1,11400000,17,3,9,65.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0099,2025,Punjab,Muzaffargarh,Water Supply,5,5,4,4418,70.0,18500000,36,4,27,74.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0100,2025,Azad Jammu & Kashmir,Poonch,Bridge,1,5,1,38057,23.2,22100000,35,3,24,53.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0101,2025,Gilgit-Baltistan,Skardu,Bridge,5,5,2,16047,26.1,55100000,83,4,78,73.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0102,2025,Khyber Pakhtunkhwa,Swat,School,5,5,4,5100,90.2,11100000,31,5,13,77.2,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0103,2025,Punjab,Narowal,Water Supply,4,5,4,25439,48.8,16300000,25,4,14,70.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0104,2025,Azad Jammu & Kashmir,Poonch,School,3,3,1,5604,62.0,7000000,17,2,10,52.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0105,2025,Sindh,Badin,House Cluster,5,2,5,5867,30.1,12600000,27,3,12,52.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0106,2025,Khyber Pakhtunkhwa,Swat,Water Supply,3,5,4,32234,27.2,16200000,23,5,24,62.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0107,2025,Punjab,Muzaffargarh,Bridge,2,5,3,21389,90.4,29700000,44,4,28,62.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0108,2025,Punjab,Bahawalpur,Health Facility,4,4,1,28346,29.4,25900000,29,5,24,66.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0109,2025,Punjab,Kasur,House Cluster,3,2,1,3147,47.1,14200000,22,2,16,44.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0110,2025,Gilgit-Baltistan,Ghanche,House Cluster,2,2,4,3898,14.3,10700000,18,2,12,29.4,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0111,2025,Punjab,Rajanpur,School,4,3,4,4756,46.4,12400000,27,4,13,53.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0112,2025,Punjab,Vehari,Health Facility,5,5,4,24771,46.1,32300000,39,6,36,77.2,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0113,2025,Punjab,Bahawalpur,School,2,3,2,1431,63.3,8000000,19,2,7,43.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0114,2025,Punjab,Multan,Bridge,2,5,2,15235,55.0,38400000,44,4,35,56.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0115,2025,Punjab,Kasur,House Cluster,2,3,2,1785,36.2,6800000,18,3,6,39.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0116,2025,Gilgit-Baltistan,Ghizer,School,4,4,1,4945,48.1,13600000,21,4,13,61.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0117,2025,Sindh,Sujawal,Road,2,4,5,26808,36.7,5000000,19,3,5,49.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0118,2025,Khyber Pakhtunkhwa,Mansehra,Road,4,4,1,32690,52.3,10000000,38,5,12,71.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0119,2025,Punjab,Vehari,Water Supply,4,5,2,24394,16.9,12900000,26,4,14,67.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0120,2025,Punjab,Vehari,House Cluster,5,3,5,830,29.1,19200000,35,5,27,55.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0121,2025,Punjab,Multan,Road,3,5,4,10846,61.5,9200000,26,4,9,60.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0122,2025,Punjab,Muzaffargarh,Road,1,3,4,33326,44.2,4500000,18,2,4,41.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0123,2025,Punjab,Muzaffargarh,Road,5,5,4,6621,67.6,12900000,35,4,19,74.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0124,2025,Punjab,Bahawalpur,House Cluster,3,2,4,1667,75.9,12800000,21,3,12,44.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0125,2025,Punjab,Rajanpur,House Cluster,5,2,5,424,27.7,16800000,35,3,18,50.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0126,2025,Punjab,Jhang,Road,2,5,1,8451,44.9,5600000,25,4,7,53.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0127,2025,Punjab,Muzaffargarh,House Cluster,3,4,2,5555,30.9,12600000,24,3,14,51.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0128,2025,Punjab,Muzaffargarh,Road,3,3,2,11551,77.7,9100000,31,3,9,55.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0129,2025,Punjab,Multan,Bridge,5,4,3,19886,29.1,73900000,67,3,67,69.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0130,2025,Punjab,Kasur,School,2,4,2,5529,82.3,8400000,14,2,12,52.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0131,2025,Punjab,Bahawalpur,Health Facility,4,4,4,11184,76.4,28600000,36,4,40,65.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0132,2025,Gilgit-Baltistan,Gilgit,School,4,4,1,4571,34.5,9200000,21,4,11,59.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0133,2025,Punjab,Bahawalpur,Road,4,4,5,32134,31.0,10400000,36,4,10,64.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0134,2025,Punjab,Jhang,Water Supply,4,5,5,46098,93.7,16000000,28,4,24,83.4,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0135,2025,Punjab,Muzaffargarh,House Cluster,5,2,1,1847,77.0,15600000,37,4,16,62.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0136,2025,Punjab,Muzaffargarh,Road,4,5,2,23729,80.5,6900000,30,5,8,77.0,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0137,2025,Azad Jammu & Kashmir,Poonch,Bridge,3,5,5,39334,12.6,39600000,59,3,52,62.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0138,2025,Punjab,Bahawalpur,Water Supply,4,4,4,44570,28.4,17700000,30,3,17,69.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0139,2025,Sindh,Hyderabad,Water Supply,4,4,1,32689,73.2,17700000,26,4,22,74.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0140,2025,Punjab,Jhang,Water Supply,4,4,1,19104,59.2,14000000,32,5,20,68.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0141,2025,Punjab,Kasur,Road,2,3,1,4970,20.2,4400000,27,2,4,38.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0142,2025,Punjab,Bahawalpur,House Cluster,4,4,1,3859,85.0,14900000,27,5,17,67.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0143,2025,Azad Jammu & Kashmir,Poonch,House Cluster,2,3,3,4820,32.2,6900000,16,3,7,38.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0144,2025,Punjab,Narowal,Water Supply,1,5,5,38838,36.2,6100000,14,4,6,51.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0145,2025,Punjab,Narowal,Road,3,4,2,22521,61.9,8000000,24,4,10,61.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0146,2025,Punjab,Bahawalpur,Bridge,3,5,1,20179,17.4,35700000,49,5,34,60.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0147,2025,Punjab,Kasur,House Cluster,4,4,5,2940,52.4,14800000,31,4,17,57.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0148,2025,Punjab,Rajanpur,School,1,4,3,3239,50.9,5900000,12,2,9,38.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0149,2025,Punjab,Bahawalpur,Road,2,4,1,5141,10.0,5500000,25,3,5,42.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0150,2025,Punjab,Muzaffargarh,Bridge,5,5,5,10029,63.3,56500000,74,5,75,73.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0151,2025,Sindh,Dadu,Water Supply,3,4,1,38414,82.2,17700000,20,3,17,71.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0152,2025,Gilgit-Baltistan,Skardu,House Cluster,5,2,1,5943,54.8,17800000,35,4,17,60.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0153,2025,Punjab,Vehari,School,3,4,5,2806,93.8,11800000,23,4,12,57.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0154,2025,Punjab,Multan,House Cluster,4,2,1,3131,64.1,13200000,29,3,14,53.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0155,2025,Punjab,Bahawalpur,Road,5,3,5,16727,29.4,12600000,40,3,13,61.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0156,2025,Khyber Pakhtunkhwa,Swat,Health Facility,3,4,4,7637,14.7,19500000,22,4,18,47.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0157,2025,Punjab,Bahawalpur,House Cluster,3,3,2,616,78.2,13600000,18,2,19,51.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0158,2025,Khyber Pakhtunkhwa,Charsadda,Bridge,2,5,5,30719,71.6,33500000,47,3,34,61.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0159,2025,Khyber Pakhtunkhwa,Mansehra,Road,2,4,4,3516,39.9,6300000,18,3,8,43.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0160,2025,Sindh,Sujawal,School,4,4,2,4356,18.7,11400000,25,3,9,56.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0161,2025,Punjab,Kasur,House Cluster,3,2,1,1224,80.1,13700000,20,3,11,48.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0162,2025,Gilgit-Baltistan,Diamer,Water Supply,1,5,5,38743,92.5,8800000,16,3,8,59.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0163,2025,Punjab,Multan,Health Facility,4,5,3,27366,58.6,18900000,36,3,25,73.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0164,2025,Punjab,Muzaffargarh,House Cluster,3,4,3,2010,92.4,12600000,21,3,12,58.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0165,2025,Punjab,Rajanpur,Water Supply,4,5,1,12724,83.1,16200000,30,4,20,74.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0166,2025,Punjab,Vehari,Road,4,5,4,34581,22.8,7200000,36,4,6,69.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0167,2025,Sindh,Hyderabad,School,3,4,3,2209,81.9,9400000,23,3,14,57.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0168,2025,Sindh,Sujawal,Bridge,5,5,4,23549,22.0,50700000,75,4,51,73.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0169,2025,Punjab,Vehari,House Cluster,3,2,3,3226,33.8,8400000,23,2,11,40.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0170,2025,Azad Jammu & Kashmir,Poonch,Bridge,2,4,2,22174,43.5,37100000,38,3,45,51.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0171,2025,Punjab,Muzaffargarh,House Cluster,3,2,5,2643,18.5,12900000,26,2,16,35.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0172,2025,Punjab,Muzaffargarh,Road,4,5,3,22867,89.0,11700000,27,4,14,77.0,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0173,2025,Punjab,Bahawalpur,Road,5,3,1,2535,48.5,13100000,36,4,19,63.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0174,2025,Azad Jammu & Kashmir,Neelam,Bridge,1,5,4,42707,32.6,21700000,25,3,31,53.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0175,2025,Punjab,Rajanpur,Water Supply,2,5,5,26465,83.1,10300000,16,4,11,61.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0176,2025,Punjab,Jhang,Water Supply,2,5,4,16816,12.6,10000000,16,4,9,48.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0177,2025,Punjab,Bahawalpur,Road,3,5,3,13512,70.9,7300000,26,5,9,64.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0178,2025,Azad Jammu & Kashmir,Neelam,Water Supply,3,4,4,4351,52.0,11200000,20,4,10,52.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0179,2025,Gilgit-Baltistan,Diamer,Water Supply,4,5,1,36242,70.7,22000000,25,4,26,80.7,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0180,2025,Sindh,Badin,Road,4,4,2,2466,88.9,8100000,27,3,8,66.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0181,2025,Gilgit-Baltistan,Diamer,Bridge,3,4,2,11103,42.2,39400000,47,3,34,55.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0182,2025,Gilgit-Baltistan,Skardu,Road,4,3,3,34696,88.9,9300000,34,3,12,70.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0183,2025,Punjab,Multan,School,5,5,1,2775,75.2,16100000,26,6,14,77.2,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0184,2025,Punjab,Narowal,School,2,5,2,4040,12.9,8100000,18,4,11,46.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0185,2025,Sindh,Hyderabad,Road,3,3,5,3401,48.1,6500000,27,3,9,45.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0186,2025,Khyber Pakhtunkhwa,Nowshera,Water Supply,3,4,4,18070,52.7,13400000,20,4,12,56.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0187,2025,Punjab,Kasur,House Cluster,3,3,3,4978,31.8,14000000,25,4,19,45.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0188,2025,Punjab,Muzaffargarh,House Cluster,2,2,2,4945,59.7,7400000,21,2,9,38.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0189,2025,Sindh,Hyderabad,Bridge,4,5,1,37267,15.7,52500000,54,5,46,72.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0190,2025,Punjab,Vehari,Water Supply,2,5,2,17855,59.9,11900000,17,3,10,57.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0191,2025,Azad Jammu & Kashmir,Poonch,House Cluster,5,4,2,2997,88.4,12900000,26,6,19,73.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0192,2025,Punjab,Jhang,Road,3,3,4,15733,26.2,9100000,25,3,8,47.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0193,2025,Punjab,Bahawalpur,Health Facility,3,4,3,40705,18.0,23200000,31,4,21,60.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0194,2025,Sindh,Khairpur,Road,3,3,3,11796,15.2,6900000,25,3,6,45.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0195,2025,Punjab,Rajanpur,Health Facility,3,4,2,23341,55.4,21400000,26,4,32,61.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0196,2025,Punjab,Jhang,Water Supply,4,5,2,5289,46.5,19200000,32,4,17,65.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0197,2025,Punjab,Vehari,Bridge,4,5,1,24322,71.5,62500000,63,5,83,76.8,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0198,2025,Gilgit-Baltistan,Ghizer,Water Supply,1,5,1,28919,28.4,8600000,14,3,8,50.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0199,2025,Punjab,Narowal,Health Facility,2,5,4,9240,85.5,16200000,20,3,24,56.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0200,2025,Punjab,Muzaffargarh,Health Facility,3,5,4,20751,13.4,20900000,23,3,27,56.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0201,2025,Sindh,Khairpur,School,3,5,2,3070,47.1,8400000,20,4,10,58.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0202,2025,Azad Jammu & Kashmir,Poonch,Water Supply,1,5,2,20772,25.4,6700000,12,2,9,46.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0203,2025,Punjab,Kasur,Water Supply,1,5,5,5681,44.3,5600000,12,4,5,41.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0204,2025,Punjab,Multan,House Cluster,3,2,5,3566,42.0,13200000,19,2,17,39.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0205,2025,Punjab,Muzaffargarh,Road,4,5,4,4281,24.5,7100000,36,4,9,60.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0206,2025,Punjab,Multan,Water Supply,5,4,1,6724,12.0,15800000,35,4,19,64.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0207,2025,Punjab,Kasur,School,3,4,1,3153,94.1,7600000,23,3,9,61.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0208,2025,Khyber Pakhtunkhwa,Swat,Health Facility,4,5,4,18745,45.6,21500000,34,4,22,68.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0209,2025,Punjab,Rajanpur,Road,3,3,1,6948,84.1,7900000,24,3,11,55.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0210,2025,Punjab,Multan,Bridge,1,4,1,4984,74.8,27300000,25,3,23,44.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0211,2025,Khyber Pakhtunkhwa,Mansehra,School,3,4,3,362,60.6,11800000,18,3,10,53.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0212,2025,Punjab,Vehari,House Cluster,4,3,4,4567,85.9,16200000,24,4,16,59.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0213,2025,Punjab,Kasur,Water Supply,4,4,5,48793,45.4,17700000,26,3,17,72.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0214,2025,Sindh,Khairpur,Bridge,5,5,4,8201,26.8,71100000,59,6,93,68.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0215,2025,Khyber Pakhtunkhwa,Swat,Health Facility,4,4,2,46411,80.4,25900000,34,4,33,79.5,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0216,2025,Khyber Pakhtunkhwa,Nowshera,House Cluster,4,4,3,2735,74.3,17600000,23,3,21,63.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0217,2025,Punjab,Jhang,House Cluster,1,3,3,2544,59.6,6000000,14,2,7,34.8,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0218,2025,Punjab,Jhang,Health Facility,3,5,1,37947,18.6,16400000,28,5,21,66.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0219,2025,Azad Jammu & Kashmir,Neelam,House Cluster,2,2,1,4457,80.3,8900000,18,2,10,42.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0220,2025,Punjab,Kasur,Health Facility,3,5,2,24621,14.3,15100000,24,4,22,60.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0221,2025,Punjab,Vehari,Road,2,4,2,13164,79.3,5300000,25,4,5,54.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0222,2025,Punjab,Narowal,Water Supply,3,5,1,4919,88.5,16900000,22,4,16,65.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0223,2025,Khyber Pakhtunkhwa,Buner,House Cluster,1,4,4,4161,90.8,6800000,12,2,10,44.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0224,2025,Azad Jammu & Kashmir,Poonch,House Cluster,4,4,5,2883,45.7,11100000,22,3,15,56.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0225,2025,Punjab,Jhang,Road,3,3,5,9099,23.9,7700000,26,3,11,43.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0226,2025,Gilgit-Baltistan,Ghizer,Water Supply,5,4,5,41881,63.7,22100000,33,5,18,79.5,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0227,2025,Punjab,Multan,House Cluster,4,4,1,2388,11.1,14000000,27,4,15,55.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0228,2025,Punjab,Kasur,House Cluster,3,2,1,5825,24.7,10100000,20,3,12,41.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0229,2025,Punjab,Multan,Water Supply,3,5,3,35406,12.1,12200000,22,3,15,62.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0230,2025,Punjab,Bahawalpur,School,3,5,4,3742,43.7,7000000,17,4,10,55.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0231,2025,Punjab,Vehari,House Cluster,4,2,3,4995,56.3,14800000,29,4,13,51.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0232,2025,Punjab,Muzaffargarh,Bridge,5,5,2,6223,26.5,45700000,68,5,42,70.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0233,2025,Azad Jammu & Kashmir,Neelam,Road,4,4,4,31473,65.5,7400000,31,5,6,70.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0234,2025,Punjab,Jhang,Water Supply,5,5,3,22032,66.7,20300000,34,4,18,80.3,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0235,2025,Azad Jammu & Kashmir,Bagh,Road,4,4,1,13590,85.4,10900000,33,5,11,70.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0236,2025,Sindh,Dadu,Road,5,4,3,29161,86.7,13300000,46,4,19,80.7,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0237,2025,Punjab,Narowal,House Cluster,4,3,2,2187,34.5,12000000,22,3,17,52.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0238,2025,Sindh,Jamshoro,House Cluster,3,3,2,2893,27.8,13100000,20,3,17,45.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0239,2025,Punjab,Narowal,Water Supply,3,5,5,44376,72.0,16200000,24,5,24,72.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0240,2025,Punjab,Muzaffargarh,School,4,4,1,2881,88.8,10900000,25,3,10,67.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0241,2025,Sindh,Sujawal,Road,3,5,3,10117,51.8,8700000,32,3,10,60.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0242,2025,Sindh,Hyderabad,Health Facility,3,5,2,26324,50.1,19500000,28,4,27,66.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0243,2025,Punjab,Rajanpur,Road,4,5,3,30170,23.0,9700000,30,5,9,69.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0244,2025,Punjab,Rajanpur,Road,3,5,1,33305,42.4,9000000,33,5,8,68.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0245,2025,Punjab,Kasur,Bridge,3,5,5,39570,68.5,42700000,48,5,55,70.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0246,2025,Gilgit-Baltistan,Gilgit,Water Supply,2,5,2,10593,64.6,13300000,16,3,12,56.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0247,2025,Punjab,Multan,Road,3,5,3,34698,11.0,7700000,28,5,8,62.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0248,2025,Punjab,Rajanpur,Road,4,4,5,27895,21.6,8700000,38,3,9,61.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0249,2025,Punjab,Muzaffargarh,Road,3,4,3,17181,25.4,7600000,30,4,7,53.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0250,2025,Punjab,Jhang,Road,4,5,5,13898,76.5,7800000,29,4,6,70.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0251,2025,Khyber Pakhtunkhwa,Mansehra,Health Facility,5,4,1,8523,85.0,32100000,44,5,41,75.6,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0252,2025,Gilgit-Baltistan,Ghizer,Health Facility,5,5,4,9629,36.8,21300000,46,5,27,70.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0253,2025,Punjab,Multan,Water Supply,2,5,2,40476,85.4,8000000,20,3,10,69.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0254,2025,Punjab,Bahawalpur,Road,2,4,3,5859,18.8,6100000,21,2,8,41.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0255,2025,Punjab,Muzaffargarh,House Cluster,5,4,3,2435,81.0,12800000,34,6,18,71.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0256,2025,Sindh,Dadu,Health Facility,3,5,3,42051,75.5,23600000,28,3,29,74.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0257,2025,Sindh,Jamshoro,Road,3,3,3,26123,25.6,6100000,23,4,8,51.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0258,2025,Punjab,Vehari,Bridge,3,4,3,14866,60.7,40500000,58,3,52,58.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0259,2025,Punjab,Bahawalpur,Water Supply,5,4,5,37606,49.5,17600000,35,5,17,76.0,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0260,2025,Punjab,Kasur,House Cluster,4,3,4,4166,64.7,15000000,24,3,12,56.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0261,2025,Punjab,Muzaffargarh,House Cluster,3,4,4,1623,27.8,11700000,20,3,16,47.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0262,2025,Sindh,Badin,Road,3,4,2,28896,37.3,8500000,33,4,9,60.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0263,2025,Punjab,Muzaffargarh,House Cluster,3,4,4,3246,37.0,8800000,21,3,10,49.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0264,2025,Punjab,Rajanpur,Water Supply,1,5,4,32019,48.9,5400000,12,2,5,52.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0265,2025,Gilgit-Baltistan,Gilgit,Road,3,3,3,2032,23.8,5800000,28,3,7,43.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0266,2025,Punjab,Jhang,Bridge,5,4,2,7548,20.8,50500000,83,5,62,64.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0267,2025,Punjab,Bahawalpur,Bridge,5,5,3,11568,63.0,59600000,67,6,54,76.3,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0268,2025,Punjab,Vehari,Road,4,5,2,33940,14.9,11400000,34,5,10,70.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0269,2025,Punjab,Bahawalpur,Health Facility,3,5,2,12679,30.8,22200000,23,5,33,58.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0270,2025,Punjab,Bahawalpur,Road,4,3,4,3979,60.1,10200000,34,3,13,55.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0271,2025,Punjab,Bahawalpur,Road,4,4,4,31102,66.7,9100000,31,3,9,70.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0272,2025,Punjab,Rajanpur,Water Supply,2,4,1,41206,24.3,9400000,17,3,13,56.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0273,2025,Punjab,Multan,Water Supply,2,5,1,39392,22.6,13000000,18,3,12,60.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0274,2025,Punjab,Bahawalpur,Road,5,3,1,28309,92.4,8700000,40,3,10,78.3,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0275,2025,Khyber Pakhtunkhwa,Charsadda,Road,4,3,5,8049,49.9,10000000,28,4,12,54.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0276,2025,Punjab,Vehari,Health Facility,4,5,2,44103,84.4,24600000,30,3,30,84.4,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0277,2025,Punjab,Muzaffargarh,Road,1,3,5,20113,23.6,4100000,19,2,4,33.2,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0278,2025,Punjab,Narowal,House Cluster,3,3,5,3999,27.9,14100000,19,4,17,42.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0279,2025,Gilgit-Baltistan,Ghizer,School,2,3,2,4714,60.1,5600000,13,3,6,43.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0280,2025,Balochistan,Nasirabad,School,4,5,3,1888,70.3,14400000,20,4,14,67.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0281,2025,Punjab,Vehari,School,3,4,1,3553,36.7,7500000,18,4,9,52.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0282,2025,Punjab,Rajanpur,School,1,4,2,1747,29.6,6100000,13,3,5,36.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0283,2025,Punjab,Jhang,Health Facility,3,4,2,55759,75.0,18100000,31,4,20,74.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0284,2025,Punjab,Jhang,Water Supply,2,5,2,44611,18.3,11500000,20,4,13,60.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0285,2025,Punjab,Vehari,Bridge,2,5,3,14335,60.8,30800000,36,4,33,55.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0286,2025,Punjab,Multan,Road,2,4,1,26143,48.1,4200000,26,4,5,54.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0287,2025,Punjab,Multan,Water Supply,3,5,1,31520,61.7,12200000,20,3,15,70.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0288,2025,Punjab,Jhang,School,3,5,5,1469,48.6,9600000,23,5,14,54.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0289,2025,Punjab,Muzaffargarh,Water Supply,3,5,5,4754,17.1,13200000,20,3,19,51.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0290,2025,Punjab,Muzaffargarh,Water Supply,4,4,2,32944,67.5,15800000,28,3,23,73.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0291,2025,Balochistan,Nasirabad,Road,4,3,3,23662,48.4,9900000,29,4,10,61.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0292,2025,Punjab,Narowal,Road,3,3,5,12931,48.6,6200000,24,3,6,48.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0293,2025,Gilgit-Baltistan,Skardu,Water Supply,3,5,2,45302,18.4,10600000,24,5,15,67.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0294,2025,Punjab,Bahawalpur,School,3,3,1,2029,24.7,11800000,16,4,15,45.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0295,2025,Balochistan,Jaffarabad,Health Facility,5,5,2,14292,10.1,29100000,36,4,27,70.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0296,2025,Gilgit-Baltistan,Ghizer,Bridge,1,4,4,41473,36.5,27300000,36,2,36,48.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0297,2025,Azad Jammu & Kashmir,Muzaffarabad,Health Facility,2,5,1,14559,16.5,14900000,27,4,19,51.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0298,2025,Sindh,Jamshoro,Health Facility,1,5,1,52552,41.0,7100000,17,4,7,60.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0299,2025,Sindh,Badin,Road,1,4,5,4657,71.8,4600000,14,2,4,40.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0300,2025,Punjab,Bahawalpur,House Cluster,4,2,2,3957,43.0,14300000,22,2,21,49.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0301,2025,Sindh,Jamshoro,Water Supply,5,5,4,33346,88.9,19800000,25,4,17,86.5,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0302,2025,Punjab,Narowal,Road,4,3,5,28091,60.2,7500000,37,3,6,62.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0303,2025,Punjab,Kasur,Road,3,3,3,28791,74.6,8200000,24,4,10,59.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0304,2025,Punjab,Vehari,Health Facility,3,4,1,28603,19.5,18800000,23,3,17,58.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0305,2025,Gilgit-Baltistan,Ghizer,Road,3,5,4,12628,86.4,7700000,32,4,7,65.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0306,2025,Punjab,Narowal,Road,4,4,4,31020,50.2,11600000,34,3,13,67.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0307,2025,Punjab,Rajanpur,School,2,3,5,2059,58.1,5300000,13,3,5,39.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0308,2025,Punjab,Multan,Road,2,4,3,8229,74.9,7000000,19,4,9,51.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0309,2025,Punjab,Muzaffargarh,Health Facility,4,5,3,49909,51.1,23600000,31,3,30,80.3,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0310,2025,Punjab,Vehari,Road,2,3,1,8293,64.3,6000000,22,2,7,46.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0311,2025,Punjab,Vehari,Health Facility,4,5,3,31527,51.4,29000000,37,4,33,74.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0312,2025,Punjab,Muzaffargarh,Water Supply,3,4,3,14657,94.9,15600000,18,3,13,63.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0313,2025,Punjab,Vehari,Bridge,5,5,5,42350,56.4,66200000,64,4,87,83.6,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0314,2025,Punjab,Kasur,Bridge,3,4,2,3523,46.9,46700000,56,4,65,53.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0315,2025,Punjab,Narowal,School,3,4,3,1571,90.3,8200000,16,3,9,58.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0316,2025,Punjab,Muzaffargarh,House Cluster,5,3,5,1895,54.3,15200000,35,3,13,59.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0317,2025,Punjab,Rajanpur,Health Facility,4,5,1,37018,75.8,21800000,27,3,18,81.7,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0318,2025,Khyber Pakhtunkhwa,Swat,House Cluster,3,2,3,3451,50.9,12300000,24,2,13,42.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0319,2025,Punjab,Jhang,House Cluster,3,3,4,2115,69.0,12100000,19,3,17,49.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0320,2025,Azad Jammu & Kashmir,Bagh,Water Supply,2,4,2,26594,46.1,7800000,21,3,11,53.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0321,2025,Gilgit-Baltistan,Gilgit,Water Supply,5,4,4,28949,27.2,22800000,32,6,25,70.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0322,2025,Punjab,Muzaffargarh,Bridge,4,4,2,43912,12.4,58800000,70,3,52,68.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0323,2025,Punjab,Multan,Health Facility,1,5,3,50727,54.5,11700000,19,4,14,60.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0324,2025,Punjab,Jhang,House Cluster,2,2,4,4021,21.4,8500000,15,2,8,30.6,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0325,2025,Balochistan,Lasbela,School,1,4,1,5146,83.2,4400000,13,2,4,46.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0326,2025,Khyber Pakhtunkhwa,Charsadda,Bridge,5,5,4,41820,79.8,64400000,71,6,63,87.9,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0327,2025,Sindh,Badin,House Cluster,3,2,3,2069,10.6,11800000,20,2,10,36.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0328,2025,Punjab,Narowal,Water Supply,3,5,1,34756,74.3,12700000,25,4,15,73.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0329,2025,Punjab,Rajanpur,Bridge,5,4,4,35855,89.7,75700000,56,5,84,82.4,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0330,2025,Punjab,Vehari,Bridge,3,5,4,34555,77.4,44700000,46,4,66,71.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0331,2025,Khyber Pakhtunkhwa,Buner,House Cluster,3,3,3,2575,57.0,10800000,25,4,16,48.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0332,2025,Punjab,Jhang,House Cluster,4,3,1,5062,57.9,15400000,29,4,20,58.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0333,2025,Khyber Pakhtunkhwa,Buner,House Cluster,4,2,5,214,82.8,14700000,23,4,19,51.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0334,2025,Gilgit-Baltistan,Skardu,Road,5,5,5,15662,58.5,8100000,41,6,10,75.0,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0335,2025,Punjab,Rajanpur,School,4,4,3,1885,91.5,12900000,29,5,19,65.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0336,2025,Punjab,Narowal,House Cluster,2,4,1,3351,75.1,8600000,20,2,9,51.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0337,2025,Punjab,Kasur,House Cluster,2,3,5,1090,81.2,8400000,15,2,10,42.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0338,2025,Khyber Pakhtunkhwa,Swat,Health Facility,4,4,4,16784,60.3,18900000,31,5,22,64.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0339,2025,Punjab,Bahawalpur,Road,3,5,4,17541,50.8,9500000,23,5,13,61.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0340,2025,Azad Jammu & Kashmir,Poonch,Road,3,4,2,11651,77.9,7500000,32,4,9,60.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0341,2025,Punjab,Bahawalpur,House Cluster,5,4,5,1269,92.7,19400000,35,4,27,70.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0342,2025,Azad Jammu & Kashmir,Neelam,School,2,3,2,2050,47.9,6400000,15,3,6,40.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0343,2025,Sindh,Badin,Bridge,4,5,4,36264,44.1,58300000,70,5,63,73.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0344,2025,Punjab,Multan,School,3,4,3,4882,37.9,10900000,17,3,16,51.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0345,2025,Sindh,Jamshoro,Water Supply,5,5,2,23320,34.4,16600000,31,4,24,76.9,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0346,2025,Sindh,Badin,Bridge,2,4,4,11356,29.2,34500000,37,3,49,44.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0347,2025,Azad Jammu & Kashmir,Jhelum Valley,Health Facility,3,5,2,12945,37.2,23300000,29,3,26,59.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0348,2025,Punjab,Muzaffargarh,Health Facility,4,5,4,53569,67.2,24900000,29,3,37,82.9,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0349,2025,Punjab,Bahawalpur,House Cluster,4,3,2,558,79.9,11800000,30,4,12,59.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0350,2025,Punjab,Rajanpur,School,2,3,3,595,74.2,6500000,15,2,9,43.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0351,2025,Punjab,Kasur,Road,3,3,3,8703,37.0,5800000,24,3,8,47.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0352,2025,Punjab,Bahawalpur,Road,5,3,3,31370,67.8,9500000,38,3,8,73.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0353,2025,Punjab,Narowal,House Cluster,3,3,5,3742,35.2,10300000,25,4,11,43.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0354,2025,Punjab,Narowal,Road,1,4,1,26349,24.5,3700000,17,2,3,44.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0355,2025,Punjab,Bahawalpur,Water Supply,4,5,2,20616,13.3,18300000,22,5,24,65.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0356,2025,Punjab,Narowal,Road,1,4,3,2817,46.6,4600000,15,3,6,37.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0357,2025,Sindh,Jamshoro,Bridge,3,4,2,31143,47.3,47200000,57,4,71,62.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0358,2025,Sindh,Jamshoro,Water Supply,5,5,2,37187,78.2,25600000,31,5,30,88.1,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0359,2025,Punjab,Rajanpur,House Cluster,4,4,4,4836,91.8,12000000,29,5,17,65.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0360,2025,Punjab,Muzaffargarh,House Cluster,4,4,5,1170,92.9,12100000,29,5,13,63.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0361,2025,Azad Jammu & Kashmir,Poonch,Road,5,3,5,18854,17.7,12400000,35,5,13,59.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0362,2025,Punjab,Bahawalpur,Bridge,3,4,4,21930,73.9,41200000,47,3,41,61.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0363,2025,Punjab,Multan,Road,5,5,3,12788,17.5,9600000,32,6,11,69.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0364,2025,Punjab,Muzaffargarh,Health Facility,4,5,4,56632,91.7,25400000,37,5,29,87.6,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0365,2025,Khyber Pakhtunkhwa,Charsadda,Bridge,4,5,1,43396,17.2,61500000,70,4,72,75.0,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0366,2025,Punjab,Rajanpur,Water Supply,2,5,5,19077,69.3,9000000,17,2,8,56.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0367,2025,Sindh,Dadu,Health Facility,4,5,3,47588,45.3,20300000,27,4,21,78.7,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0368,2025,Khyber Pakhtunkhwa,D.I. Khan,Bridge,2,4,3,30976,63.5,39300000,45,3,35,56.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0369,2025,Punjab,Narowal,Bridge,3,5,2,19390,46.4,37000000,54,5,50,63.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0370,2025,Gilgit-Baltistan,Ghizer,House Cluster,1,3,3,4393,56.3,5100000,12,3,6,34.9,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0371,2025,Sindh,Jamshoro,Health Facility,3,5,3,30330,34.7,18100000,30,3,25,64.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0372,2025,Punjab,Vehari,Health Facility,4,4,3,40547,61.7,28900000,33,5,37,73.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0373,2025,Punjab,Bahawalpur,Road,3,3,3,11164,41.2,7000000,29,2,10,48.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0374,2025,Punjab,Muzaffargarh,Health Facility,2,5,1,30318,12.4,15500000,21,4,16,56.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0375,2025,Punjab,Jhang,Road,4,4,4,17412,41.5,7800000,28,3,12,62.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0376,2025,Punjab,Rajanpur,Bridge,5,5,1,3839,45.6,69500000,81,6,78,73.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0377,2025,Azad Jammu & Kashmir,Neelam,Bridge,5,5,1,38674,89.0,54100000,60,5,63,91.2,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0378,2025,Punjab,Rajanpur,Water Supply,4,5,4,17275,44.0,14000000,23,4,19,67.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0379,2025,Punjab,Kasur,House Cluster,3,4,3,4077,79.1,13500000,23,4,16,57.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0380,2025,Khyber Pakhtunkhwa,Swat,Water Supply,3,5,3,21305,35.9,14100000,23,4,16,61.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0381,2025,Punjab,Vehari,Water Supply,3,4,2,46339,27.6,14400000,23,4,13,64.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0382,2025,Azad Jammu & Kashmir,Muzaffarabad,House Cluster,4,4,2,3158,13.1,13900000,24,4,17,55.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0383,2025,Sindh,Hyderabad,Bridge,1,5,5,10797,26.2,22900000,26,4,22,40.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0384,2025,Punjab,Rajanpur,Water Supply,3,4,1,22707,91.5,17300000,24,3,21,67.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0385,2025,Punjab,Muzaffargarh,Water Supply,2,5,1,21308,36.8,8500000,19,3,9,56.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0386,2025,Azad Jammu & Kashmir,Neelam,House Cluster,2,2,1,2706,22.2,10600000,15,2,10,33.2,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0387,2025,Khyber Pakhtunkhwa,D.I. Khan,Road,1,3,4,6600,51.9,4200000,14,2,5,34.0,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0388,2025,Azad Jammu & Kashmir,Neelam,Road,1,3,3,9264,49.7,4900000,20,3,5,35.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0389,2025,Punjab,Rajanpur,Road,2,3,2,2466,18.1,5500000,21,2,7,36.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0390,2025,Balochistan,Nasirabad,Water Supply,2,5,2,28073,25.7,10600000,15,3,13,56.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0391,2025,Punjab,Jhang,Road,5,3,3,3419,58.0,11400000,35,4,10,62.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0392,2025,Punjab,Jhang,Road,2,5,3,12390,86.7,6600000,26,4,8,59.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0393,2025,Punjab,Bahawalpur,Water Supply,3,5,1,19365,64.4,14300000,19,4,15,67.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0394,2025,Khyber Pakhtunkhwa,Buner,Road,4,5,5,16598,74.0,7500000,39,4,7,70.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0395,2025,Punjab,Rajanpur,Road,3,3,1,25678,90.7,8100000,28,3,11,63.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0396,2025,Punjab,Jhang,Road,5,5,1,15038,78.0,13800000,42,4,17,81.7,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0397,2025,Sindh,Sujawal,School,3,3,4,4262,87.4,7700000,19,3,8,52.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0398,2025,Punjab,Narowal,Bridge,3,4,3,30266,58.8,34200000,49,3,34,62.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0399,2025,Punjab,Jhang,Road,3,5,5,32466,55.8,7900000,23,3,7,66.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0400,2025,Punjab,Rajanpur,School,2,5,1,1549,37.5,7400000,17,4,11,50.1,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0401,2025,Punjab,Vehari,Health Facility,3,4,3,21126,87.1,14600000,30,4,21,64.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0402,2025,Gilgit-Baltistan,Ghizer,Road,4,4,5,27436,52.5,10600000,30,4,15,66.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0403,2025,Sindh,Khairpur,House Cluster,5,2,3,4829,85.4,15600000,37,3,18,62.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0404,2025,Punjab,Kasur,School,5,4,4,4467,63.3,13300000,28,5,11,68.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0405,2025,Azad Jammu & Kashmir,Muzaffarabad,Water Supply,4,5,1,40296,43.2,17600000,22,4,20,77.9,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0406,2025,Gilgit-Baltistan,Ghizer,Bridge,4,4,4,21273,45.3,45100000,61,4,51,63.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0407,2025,Punjab,Rajanpur,Bridge,5,5,1,5985,48.3,52500000,70,4,74,74.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0408,2025,Balochistan,Nasirabad,Health Facility,2,5,4,5086,44.4,14400000,22,4,19,49.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0409,2025,Punjab,Jhang,Road,4,5,1,20333,62.0,11700000,35,6,15,74.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0410,2025,Islamabad Capital Territory,Islamabad,Bridge,4,5,3,23563,78.6,41000000,51,3,47,75.6,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0411,2025,Khyber Pakhtunkhwa,Mansehra,Bridge,4,5,3,28499,33.8,52700000,51,6,49,70.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0412,2025,Punjab,Kasur,Bridge,2,4,5,38590,62.2,36000000,44,2,30,57.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0413,2025,Punjab,Multan,House Cluster,2,4,4,1584,48.2,6700000,18,2,9,43.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0414,2025,Gilgit-Baltistan,Diamer,Bridge,5,4,4,22674,11.2,56700000,60,4,80,66.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0415,2025,Punjab,Muzaffargarh,House Cluster,2,4,3,2577,93.0,6400000,19,3,5,51.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0416,2025,Punjab,Jhang,Road,3,5,5,17228,65.7,8600000,31,4,10,62.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0417,2025,Punjab,Bahawalpur,Health Facility,3,5,5,21440,26.6,21700000,26,3,20,58.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0418,2025,Sindh,Dadu,House Cluster,5,4,1,5087,49.5,20700000,28,6,29,69.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0419,2025,Punjab,Multan,Road,4,5,4,25315,45.9,10800000,37,5,16,70.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0420,2025,Gilgit-Baltistan,Ghizer,House Cluster,4,4,5,737,13.6,13200000,30,3,17,51.3,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0421,2025,Khyber Pakhtunkhwa,Nowshera,Bridge,3,4,4,35824,86.2,34200000,58,3,51,67.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0422,2025,Punjab,Muzaffargarh,House Cluster,2,2,1,1332,60.1,9900000,17,2,12,38.5,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0423,2025,Punjab,Multan,House Cluster,4,4,3,1651,94.8,12800000,21,3,15,65.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0424,2025,Punjab,Rajanpur,Road,5,3,4,2847,77.8,9600000,44,3,12,64.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0425,2025,Punjab,Bahawalpur,Water Supply,4,4,5,38374,80.1,17800000,28,3,17,73.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0426,2025,Sindh,Hyderabad,House Cluster,1,2,4,2387,88.2,4500000,16,1,5,33.0,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0427,2025,Punjab,Kasur,School,1,3,1,5742,53.5,5600000,10,2,7,36.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0428,2025,Balochistan,Jaffarabad,Road,4,4,5,34744,84.6,9400000,38,3,8,73.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0429,2025,Punjab,Kasur,Health Facility,1,5,5,17414,90.9,8700000,17,3,8,52.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0430,2025,Sindh,Badin,House Cluster,4,4,5,5968,20.0,13700000,28,3,15,54.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0431,2025,Azad Jammu & Kashmir,Poonch,Road,2,4,3,4763,60.2,4700000,24,2,7,47.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0432,2025,Sindh,Dadu,Bridge,3,5,2,15565,50.1,49700000,58,4,45,62.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0433,2025,Khyber Pakhtunkhwa,Nowshera,Health Facility,4,5,2,10836,54.1,25100000,31,4,23,68.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0434,2025,Balochistan,Quetta,School,2,5,4,4178,73.5,5200000,15,3,6,53.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0435,2025,Punjab,Kasur,Water Supply,3,5,5,38423,41.6,10600000,24,3,10,66.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0436,2025,Punjab,Muzaffargarh,School,3,5,1,1952,53.4,8400000,17,4,8,59.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0437,2025,Punjab,Multan,House Cluster,3,3,1,3499,30.1,8400000,20,4,12,46.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0438,2025,Punjab,Muzaffargarh,Road,4,3,3,28548,30.1,8300000,31,3,8,60.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0439,2025,Sindh,Badin,Water Supply,5,5,1,45469,42.4,20600000,32,4,29,86.5,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0440,2025,Punjab,Vehari,Water Supply,4,5,4,18157,38.4,14100000,27,3,19,66.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0441,2025,Balochistan,Lasbela,House Cluster,3,3,2,1422,24.9,9100000,19,3,14,44.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0442,2025,Punjab,Narowal,Road,5,5,2,2632,13.4,11000000,41,5,11,66.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0443,2025,Khyber Pakhtunkhwa,D.I. Khan,School,5,4,3,5339,77.2,11900000,32,4,16,71.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0444,2025,Punjab,Rajanpur,Bridge,3,5,3,44908,82.3,53100000,42,3,56,76.3,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0445,2025,Punjab,Bahawalpur,House Cluster,3,2,5,725,11.6,10900000,23,2,10,34.0,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0446,2025,Khyber Pakhtunkhwa,Buner,Road,3,5,1,14700,37.3,7800000,28,5,7,61.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0447,2025,Azad Jammu & Kashmir,Poonch,Bridge,3,5,3,39318,74.9,36200000,42,4,49,73.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0448,2025,Punjab,Jhang,Water Supply,4,4,3,4746,67.9,14900000,27,5,15,62.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0449,2025,Punjab,Rajanpur,Health Facility,3,5,3,10407,66.6,22300000,24,4,19,62.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0450,2025,Punjab,Multan,Bridge,5,5,3,9064,33.4,78300000,63,6,78,71.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0451,2025,Punjab,Jhang,Bridge,4,4,1,22879,31.3,59000000,66,5,48,65.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0452,2025,Gilgit-Baltistan,Skardu,Health Facility,5,5,2,4535,79.1,22600000,41,6,19,77.4,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0453,2025,Khyber Pakhtunkhwa,Nowshera,House Cluster,4,3,2,700,23.8,12900000,30,3,18,50.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0454,2025,Punjab,Narowal,Bridge,3,5,1,31575,77.2,49900000,60,4,67,73.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0455,2025,Punjab,Rajanpur,House Cluster,5,2,4,1269,30.0,16600000,34,3,16,51.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0456,2025,Punjab,Narowal,Water Supply,3,4,1,45999,43.8,14900000,26,5,19,67.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0457,2025,Azad Jammu & Kashmir,Neelam,Health Facility,3,5,5,54091,19.0,23400000,32,4,30,67.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0458,2025,Punjab,Muzaffargarh,House Cluster,3,3,2,3576,56.7,10900000,22,2,16,49.7,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0459,2025,Sindh,Dadu,Health Facility,5,5,1,39519,82.2,25200000,34,4,25,90.5,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0460,2025,Punjab,Bahawalpur,House Cluster,3,3,2,4282,14.5,10200000,24,2,10,43.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0461,2025,Punjab,Rajanpur,Road,1,3,3,16322,33.2,4900000,20,2,5,35.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0462,2025,Punjab,Multan,House Cluster,5,3,5,2822,20.6,15900000,36,5,14,55.0,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0463,2025,Azad Jammu & Kashmir,Muzaffarabad,House Cluster,2,2,4,4965,48.7,6600000,18,2,9,35.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0464,2025,Punjab,Narowal,Road,5,5,2,24609,36.1,8300000,35,5,7,77.6,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0465,2025,Punjab,Muzaffargarh,Bridge,2,5,1,36134,90.2,24100000,44,4,36,69.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0466,2025,Khyber Pakhtunkhwa,Mansehra,Road,3,3,3,15898,71.9,7300000,25,3,10,55.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0467,2025,Punjab,Kasur,Road,4,4,3,7553,54.6,10600000,40,4,11,61.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0468,2025,Azad Jammu & Kashmir,Bagh,Road,2,5,2,28839,46.4,4600000,21,4,4,59.6,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0469,2025,Punjab,Multan,Health Facility,5,5,3,7578,39.3,29000000,39,4,32,71.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0470,2025,Punjab,Muzaffargarh,House Cluster,3,4,4,4683,38.6,13000000,20,4,14,50.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0471,2025,Punjab,Multan,Road,5,3,2,23056,87.3,12500000,42,3,11,74.8,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0472,2025,Punjab,Muzaffargarh,Health Facility,2,4,2,29468,34.3,10900000,18,3,13,53.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0473,2025,Punjab,Kasur,Water Supply,2,5,1,14299,40.9,10500000,21,4,11,54.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0474,2025,Punjab,Bahawalpur,Water Supply,1,5,5,17812,52.8,8900000,13,3,9,46.9,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0475,2025,Punjab,Bahawalpur,Health Facility,4,5,2,34711,64.7,21900000,27,4,18,78.3,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0476,2025,Punjab,Rajanpur,Bridge,3,5,1,34648,65.7,37700000,60,5,46,72.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0477,2025,Punjab,Jhang,Water Supply,5,4,2,36285,21.6,22800000,31,3,23,74.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0478,2025,Punjab,Rajanpur,Water Supply,3,4,1,49962,50.7,16600000,24,3,16,70.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0479,2025,Punjab,Muzaffargarh,Bridge,3,5,5,43641,44.7,44100000,49,4,51,68.3,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0480,2025,Punjab,Rajanpur,Health Facility,3,5,5,40942,11.4,16000000,28,4,19,62.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0481,2025,Punjab,Vehari,Health Facility,3,5,4,25031,45.0,17700000,24,4,24,63.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0482,2025,Punjab,Rajanpur,Water Supply,4,4,2,4427,72.9,15800000,30,3,13,64.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0483,2025,Punjab,Rajanpur,Bridge,2,4,5,21430,33.4,30600000,38,3,27,47.2,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0484,2025,Punjab,Vehari,Health Facility,2,5,4,5946,72.2,16500000,19,3,24,53.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0485,2025,Punjab,Muzaffargarh,House Cluster,4,3,1,3400,53.0,16800000,24,4,21,57.1,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0486,2025,Punjab,Jhang,Bridge,3,5,2,11611,64.0,40500000,45,4,49,63.5,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0487,2025,Punjab,Vehari,House Cluster,3,4,2,3533,42.9,10400000,19,4,13,52.6,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0488,2025,Punjab,Rajanpur,Road,5,3,5,29390,69.1,10400000,46,3,10,71.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0489,2025,Punjab,Multan,House Cluster,3,4,4,1363,28.8,11200000,26,4,13,47.8,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0490,2025,Punjab,Vehari,Road,2,5,5,6695,58.6,6800000,19,4,6,51.0,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0491,2025,Khyber Pakhtunkhwa,Buner,Bridge,3,4,2,41217,37.5,49100000,55,4,71,64.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0492,2025,Punjab,Narowal,Road,3,4,1,26037,84.8,7400000,26,3,8,67.4,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0493,2025,Khyber Pakhtunkhwa,Nowshera,Health Facility,3,5,4,52391,76.9,16200000,29,3,17,77.0,Critical,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0494,2025,Punjab,Rajanpur,Health Facility,4,5,1,26325,14.5,24300000,40,5,33,68.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0495,2025,Sindh,Khairpur,House Cluster,4,4,4,4012,29.4,15700000,24,5,15,55.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0496,2025,Punjab,Rajanpur,Road,5,4,2,4643,70.7,9000000,33,4,9,71.2,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0497,2025,Punjab,Jhang,Road,1,3,2,2656,12.6,4100000,18,1,4,28.8,Low,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0498,2025,Punjab,Jhang,Water Supply,4,5,3,5341,27.7,20300000,31,6,19,61.9,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0499,2025,Punjab,Vehari,Road,2,3,2,8589,63.8,4700000,26,2,4,45.4,Medium,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
+PK25-0500,2025,Punjab,Jhang,Water Supply,4,5,2,33924,29.0,14300000,26,4,18,72.7,High,synthetic_asset_record_calibrated_to_NDMA_2025,NDMA Post-Monsoon 2025 Infrastructure Damage Assessment
